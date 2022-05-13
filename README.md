@@ -15,6 +15,8 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 
 * incluye ejemplos en windows, linux y mac.
 
+* Disponible para todas las eddes"
+
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 
