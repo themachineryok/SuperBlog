@@ -11,7 +11,9 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Las personalidades múltiples de Freddy
 * Creado por el increíble Platzi Team 
 
-* voy a usar git stash para probar cherrypick
+* voy a usar git stash para probar cherrypick 
+
+* incluye ejemplos en windows, linux y mac.
 
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
